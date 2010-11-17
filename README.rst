@@ -100,12 +100,14 @@ Mailing list, Reporting Bugs, and Viewing the Source Repository
   A Bazaar mirror can be found in
   "Launchpad":https://code.launchpad.net/supervisord
 
+
 Contributing
 ============
 
   If you'd like to contribute to supervisor directly, please contact
   the "supervisor-users
   mailing list":http://lists.supervisord.org/mailman/listinfo/supervisor-users
+
 
 Author Information
 ==================
