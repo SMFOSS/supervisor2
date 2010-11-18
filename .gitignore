@@ -1,2 +1,7 @@
 *.pyc
 *~
+*.orig
+*.rej
+*.diff
+*.patch
+*.egg-info
